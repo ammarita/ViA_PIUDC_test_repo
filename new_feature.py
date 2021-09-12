@@ -6,3 +6,4 @@ Release created
 Bugfix
 New feature
 Latest updates
+Release 0.2.0 created
